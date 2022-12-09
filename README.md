@@ -14,3 +14,20 @@ However, in order to support the analysis, you speak to the Associate Director f
 * Transactions data in the past 3 months
 
 You decide to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
+
+# Task 1
+ Please find the 3 datasets attached from Sprocket Central Pty Ltd:
+* Customer Demographic 
+* Customer Addresses
+* Transaction data in the past three months
+Can you please review the data quality to ensure that it is ready for our analysis in phase two. Remember to take note of any assumptions or issues we need to go back to the client on. As well as recommendations going forward to mitigate current data quality concerns.
+
+# Task 2
+Using the existing 3 datasets (Customer demographic, customer address and transactions) as a labelled dataset, please recommend which of these 1000 new customers should be targeted to drive the most value for the organisation. 
+
+In building this recommendation, we need to start with a PowerPoint presentation which outlines the approach which we will be taking. The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
+
+# Task 3
+Please develop a dashboard that we can present to the client at our next meeting. Display your data summary and results of the analysis in a dashboard (see tools/references for assistance).  Maximum of 3 dashboard views/tabs, creativity in layout and presentation is welcome.  
+Specifically, your presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to. 
+
