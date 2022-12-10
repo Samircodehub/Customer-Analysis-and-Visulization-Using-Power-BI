@@ -1,4 +1,8 @@
 # Customer-Analysis-and-Visulization-Using-Power-BI
+![CA1](https://user-images.githubusercontent.com/108605935/206829857-a7fabbb1-09e0-4920-85a4-b1b5e410fb10.png)
+![CA2](https://user-images.githubusercontent.com/108605935/206829879-36606867-afb8-4d08-9d2e-7b5a1b54b4b2.png)
+![CA2](https://user-images.githubusercontent.com/108605935/206829883-c6aee094-4751-4e85-895b-cfe54a13f926.png)
+
 ## Situation
 Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
 
